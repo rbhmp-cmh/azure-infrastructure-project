@@ -39,3 +39,10 @@ This project demonstrates the deployment and configuration of Azure infrastructu
 - Implemented load balancing across multiple servers
 - Troubleshot RBAC permission issues
 - Created and managed secrets in Azure Key Vault
+
+## Architecture Diagram
+
+### Azure Resource Visualizer
+
+![Azure Resource Visualizer](Resource-Visualizer1.jpeg)
+![Azure Resource Visualizer](Resource-Visualizer2.jpeg)
